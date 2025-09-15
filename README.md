@@ -16,10 +16,13 @@ Provide recommendations based on findings for content strategy.
 
 ⚙️ Tools & Technologies
 
-Python: pandas, numpy, matplotlib, seaborn
-SQL and Power Query: For querying and filtering insights
-Power BI: Interactive dashboard creation
-Jupyter Notebook: Code & documentation
+Python: pandas, numpy, matplotlib, seaborn.
+
+SQL and Power Query: For querying and filtering insights.
+
+Power BI: Interactive dashboard creation.
+
+Jupyter Notebook: Code & documentation.
 
 📊 Key Insights
 
