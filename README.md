@@ -16,7 +16,8 @@ Visualize insights using Matplotlib, Seaborn and Power BI.
 
 Provide recommendations based on findings for content strategy.
 
-**⚙️ Tools & Technologies Used **
+
+**⚙️ Tools & Technologies Used**
 
 Python (pandas, numpy, matplotlib) • SQL • Power Query • Power BI • Jupyter Notebook
 
