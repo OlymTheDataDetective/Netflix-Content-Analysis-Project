@@ -1,9 +1,11 @@
 **📺 Netflix Data Analysis**
 
 
+
 **📖 Project Overview**
 
 This project explores the Netflix dataset to uncover insights about content trends, genres(content category), ratings and release patterns. Using Python, SQL and Power BI, the analysis answers business and consumer-focused questions.
+
 
 
 **🎯 Objectives**
@@ -20,6 +22,7 @@ Provide recommendations based on findings for content strategy.
 **⚙️ Tools & Technologies Used**
 
 Python (pandas, numpy, matplotlib) • SQL • Power Query • Power BI • Jupyter Notebook
+
 
 
 **📊 Key Insights**
@@ -45,6 +48,7 @@ The most prevalent genres are Drama, Comedy Action & Adventure and Documentaries
 A majority of the content is rated for Mature Audiences, indicating a focus on adult viewers rather than children or teens.
 
 
+
 **💡 Business Recommendations**
 
 **1. 🎬 Balance Catalog Between Movies and TV Shows**
@@ -66,6 +70,7 @@ Movies currently dominate the platform. Increasing investment in high-quality TV
 **3. 👨‍👩‍👧‍👦 Target Younger Audiences**
 
 Increase family-friendly and teen-focused content to drive subscriber growth and long-term loyalty across demographics.
+
 
 
 **✅ Summary**
